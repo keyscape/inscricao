@@ -1,3 +1,3 @@
 # inscricao
 
-line: <link rel="icon" type="image/x-icon" href="assets/keyscape.png">
+Página Web estática criada para ser utilizada na inscrição do projeto de extensão de Escape Room "Keyscape" da UTFPR-CP no ano de 2021..
